@@ -1,7 +1,5 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+***Hello world*** 👋 
 
-![Image of fast.ai logo](images/logo.png)
-
-## This is a title
-
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+- 👀 I’m interested in C, C#, Python, Machine learning!
+- 💞️ I work on complex issues for insanely long hours
+- 🌱 I would like to blog about things that I work on, I learn, etc., for my own future reference. Perhaps, it might help 1 or 2 out in the world!
